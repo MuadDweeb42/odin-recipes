@@ -1,2 +1,2 @@
 # odin-recipes
-A test repo for Odin Recipes on The Odin Project
+I am attempting my first project with The Odin Project creating recipes, utilizing basic html skills.
